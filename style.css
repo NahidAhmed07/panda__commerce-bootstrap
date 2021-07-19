@@ -1,0 +1,10 @@
+.panda-btn-buy-now{
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.panda-price-color{
+    color: #FF136F;
+}
